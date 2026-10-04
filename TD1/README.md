@@ -22,7 +22,7 @@ exo4/
 ├── search.py
 ├── pokemon_game.py
 ├── requirements.txt
-├── pokemon-sprites/
+└── pokemon-sprites/
 ```
 
 ## Environnement de travail

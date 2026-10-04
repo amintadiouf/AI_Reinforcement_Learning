@@ -23,7 +23,6 @@ exo4/
 ├── pokemon_game.py
 ├── requirements.txt
 ├── pokemon-sprites/
-└── .gitignore
 ```
 
 ## Environnement de travail

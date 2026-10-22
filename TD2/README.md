@@ -17,13 +17,15 @@ différents : herbe (coût 1), rocher (coût 5) et arbre (bloqué).
 ## Structure du projet
 
 ``` text
-exo4/
-├── main.py
-├── search.py
-├── pokemon_game.py
-├── requirements.txt
-├── pokemon-sprites/
-└── images/
+TD2/
+├── exo4/
+│   ├── main.py
+│   ├── search.py
+│   ├── pokemon_game.py
+│   ├── requirements.txt
+│   └── pokemon-sprites/
+├── images/
+└── README.md
 ```
 
 ## Environnement de travail

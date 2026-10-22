@@ -8,8 +8,8 @@ cours de AI and Reinforcement Learning.
 L'objectif de cet exercice est d'implémenter en Python deux algorithmes
 de recherche dans le fichier `search.py` :
 
--   l'algorithme de **Dijkstra** (Uniform-Cost Search) ;
--   l'algorithme **A\*** avec l'heuristique de Manhattan.
+-   l'algorithme de Dijkstra ;
+-   l'algorithme A avec l'heuristique de Manhattan.
 
 L'environnement Pokémon contient maintenant des terrains avec des coûts
 différents : herbe (coût 1), rocher (coût 5) et arbre (bloqué).
